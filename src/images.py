@@ -63,7 +63,8 @@ images = [
     Image.GIRAFFE,
     Image.SKULL,
     Image.UMBRELLA,
-    Image.SNAKE]
+    Image.SNAKE,
+]
 
 while True:
     for image in images:
