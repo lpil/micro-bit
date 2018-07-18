@@ -1,0 +1,11 @@
+{
+  "name": "cpp-hello",
+  "version": "1.0.0",
+  "description": "Hello, world!",
+  "license": "MIT",
+  "dependencies": {
+    "microbit": "lancaster-university/microbit"
+  },
+  "targetDependencies": {},
+  "bin": "./src"
+}
